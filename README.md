@@ -1,3 +1,12 @@
+## Steps to run development
+
+1. `yarn install`
+2. `yarn run nodemon server.js` to run the server
+3. Open a separate tab `yarn start`
+
+
+--- The following is from create-react-app ---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
